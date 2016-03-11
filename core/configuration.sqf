@@ -68,6 +68,7 @@ CASH = 0;
 life_istazed = false;
 life_isknocked = false;
 life_vehicles = [];
+life_fadeSound = false;
 
 /*
 	Master Array of items?
